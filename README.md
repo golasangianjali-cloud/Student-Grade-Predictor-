@@ -1,1 +1,1 @@
-# Student-Grade-Predictor-
+# Student_Grade_Predictor_Project
